@@ -1,16 +1,16 @@
 {
-  "id": "./",
-  "name": "UTI da Ciência",
-  "short_name": "UTI da Ciência",
+  "id": "./student-app",
+  "name": "UTI Aprova",
+  "short_name": "UTI Aprova",
   "description": "Sua preparação para o IFRN com a UTI da Ciência.",
   "lang": "pt-BR",
-  "start_url": "./",
+  "start_url": "./#/app",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#1c1512",
-  "theme_color": "#1c1512",
+  "background_color": "#050505",
+  "theme_color": "#050505",
   "icons": [
-    { "src": "./media/app-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "./media/app-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "./media/app-black-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./media/app-black-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
   ]
 }

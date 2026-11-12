@@ -1,16 +1,16 @@
-const CACHE = 'uti-public-2026-11-11-1'
+const CACHE = 'uti-student-shell-2026-11-11-1'
 const base = new URL(self.registration.scope)
 const local = path => new URL(path, base).href
 
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll([
-    local('./'), local('manifest.webmanifest'), local('media/app-192.png'), local('media/app-512.png'),
+    local('./'), local('manifest.webmanifest'), local('media/app-black-192.png'), local('media/app-black-512.png'),
   ])).then(() => self.skipWaiting()))
 })
 
 self.addEventListener('activate', event => {
   event.waitUntil(caches.keys().then(keys => Promise.all(keys
-    .filter(key => key.startsWith('uti-public-') && key !== CACHE)
+    .filter(key => (key.startsWith('uti-public-') || key.startsWith('uti-student-shell-')) && key !== CACHE)
     .map(key => caches.delete(key)))).then(() => self.clients.claim()))
 })
 
