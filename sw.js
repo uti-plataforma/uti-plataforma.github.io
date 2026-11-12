@@ -1,4 +1,4 @@
-const CACHE = 'uti-student-shell-2026-11-12-1'
+const CACHE = 'uti-student-shell-2026-11-12-2'
 const base = new URL(self.registration.scope)
 const local = path => new URL(path, base).href
 
@@ -38,5 +38,29 @@ self.addEventListener('fetch', event => {
       if (cached) return cached
       throw error
     }
+  })())
+})
+
+// Notificações: mostra o aviso e, ao tocar, abre a tela certa do app.
+self.addEventListener('push', event => {
+  let data = {}
+  try { data = event.data ? event.data.json() : {} } catch { data = { body: event.data ? event.data.text() : '' } }
+  const title = typeof data.title === 'string' ? data.title.slice(0, 80) : 'UTI Aprova'
+  const body = typeof data.body === 'string' ? data.body.slice(0, 180) : ''
+  const route = typeof data.route === 'string' && /^\/app(\/[a-z]+)?(\?[a-z0-9=&-]*)?$/.test(data.route) ? data.route : '/app'
+  event.waitUntil(self.registration.showNotification(title, {
+    body, tag: typeof data.tag === 'string' ? data.tag.slice(0, 60) : undefined,
+    icon: local('media/app-black-192.png'), badge: local('media/app-black-192.png'), data: { route },
+  }))
+})
+
+self.addEventListener('notificationclick', event => {
+  event.notification.close()
+  const target = local(`#${event.notification.data?.route ?? '/app'}`)
+  event.waitUntil((async () => {
+    const windows = await self.clients.matchAll({ type: 'window', includeUncontrolled: true })
+    const open = windows.find(client => client.url.startsWith(base.href))
+    if (open) { await open.navigate(target); return open.focus() }
+    return self.clients.openWindow(target)
   })())
 })
