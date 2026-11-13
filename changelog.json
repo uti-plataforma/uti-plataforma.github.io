@@ -1,7 +1,17 @@
 {
-  "version": "2026-11-13-10",
+  "version": "2026-11-13-12",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "pencil",
+      "title": "Correção ao vivo",
+      "text": "O professor vê e corrige as respostas enquanto o aluno ainda está fazendo a atividade."
+    },
+    {
+      "icon": "book",
+      "title": "Matérias em faixa",
+      "text": "O topo de cada matéria virou uma faixa de ponta a ponta."
+    },
     {
       "icon": "refresh",
       "title": "Atualizações visíveis",
