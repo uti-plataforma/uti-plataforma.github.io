@@ -1,0 +1,13 @@
+{
+  "version": "2026-11-13-7",
+  "title": "Nova atualização!",
+  "items": [
+    { "icon": "send", "title": "Simulado com apresentação", "text": "Antes das questões, o mascote mostra o tempo, as instruções e dá a largada." },
+    { "icon": "check", "title": "Entrega com gabarito", "text": "Confira suas marcações e veja as questões em branco antes de entregar." },
+    { "icon": "timer", "title": "Encerra hoje", "text": "O que fecha hoje aparece em destaque; o que já foi respondido fica recolhido." },
+    { "icon": "bell", "title": "Nota no celular", "text": "Você é avisado quando a nota da atividade ou o resultado do simulado sair." },
+    { "icon": "book", "title": "Plano de estudo", "text": "Em Matérias, um plano feito com os seus erros nos simulados." },
+    { "icon": "volume", "title": "Sons de volta", "text": "Os efeitos dos desafios voltaram a tocar no celular." },
+    { "icon": "heart", "title": "Mascote mais presente", "text": "Ele se apoia nas janelas, acompanha a prova e se movimenta por inteiro." }
+  ]
+}
