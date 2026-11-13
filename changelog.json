@@ -1,26 +1,26 @@
 {
-  "version": "2026-11-13-18",
+  "version": "2026-11-13-19",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "pencil",
+      "title": "Redação em tela cheia",
+      "text": "Editar abre a folha na tela toda, com zoom de dois dedos. Na correção, use Visualizar Correção."
+    },
+    {
+      "icon": "heart-filled",
+      "title": "Curtida rosa",
+      "text": "Avisos que você curtiu ficam com o botão rosa e o coração preenchido."
+    },
+    {
+      "icon": "send",
+      "title": "Balão do desafio",
+      "text": "No resultado do desafio, o balão aparece sobre o mascote, digitando, e some logo depois."
+    },
     {
       "icon": "volume",
       "title": "Sons mais baixos",
       "text": "Os efeitos sonoros e a música dos resultados ficaram bem mais baixos."
-    },
-    {
-      "icon": "bell",
-      "title": "Pendências no menu",
-      "text": "Simulados e Atividades mostram uma bolinha com quantas avaliações abertas ainda faltam entregar."
-    },
-    {
-      "icon": "book",
-      "title": "Conteúdo novo",
-      "text": "Conteúdos mostra quantas aulas novas você ainda não viu. Ao abrir a aula, a bolinha some."
-    },
-    {
-      "icon": "volume",
-      "title": "Efeitos sempre tocam",
-      "text": "Os efeitos sonoros tocam mesmo com o celular no silencioso."
     }
   ]
 }
