@@ -1,7 +1,12 @@
 {
-  "version": "2026-11-13-13",
+  "version": "2026-11-13-14",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "volume",
+      "title": "Sons de app",
+      "text": "Os efeitos tocam na hora, não aparecem mais no player da tela de bloqueio e não pausam sua música."
+    },
     {
       "icon": "volume",
       "title": "Efeitos sonoros",
@@ -20,7 +25,7 @@
     {
       "icon": "settings",
       "title": "Liga e desliga",
-      "text": "Em Configurações, o botão Efeitos sonoros silencia tudo de uma vez."
+      "text": "Em Configurações, o botão Efeitos sonoros silencia tudo. A chave de silêncio do celular também."
     }
   ]
 }
