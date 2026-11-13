@@ -1,31 +1,26 @@
 {
-  "version": "2026-11-13-14",
+  "version": "2026-11-13-15",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "volume",
-      "title": "Sons de app",
-      "text": "Os efeitos tocam na hora, não aparecem mais no player da tela de bloqueio e não pausam sua música."
+      "title": "Um som por ação",
+      "text": "Sem som ao trocar de aba e sem efeitos um em cima do outro. Salvar e excluir tocam só o resultado."
     },
     {
-      "icon": "volume",
-      "title": "Efeitos sonoros",
-      "text": "Sons ao tocar nos botões, navegar, abrir janelas, salvar, excluir e carregar."
+      "icon": "heart",
+      "title": "Música nos resultados",
+      "text": "Uma trilha calma toca ao conferir o resultado de atividades e simulados."
     },
     {
-      "icon": "check",
-      "title": "Comemoração com som",
-      "text": "Confete com fanfarra, entrega da prova com carimbo e aviso quando o tempo está acabando."
-    },
-    {
-      "icon": "bell",
-      "title": "Notificação com som",
-      "text": "Um plim avisa quando chega notificação nova com o app aberto."
+      "icon": "list",
+      "title": "Botão ao lado do Voltar",
+      "text": "Quando a tela tem uma ação só, ela flutua do outro lado do Voltar."
     },
     {
       "icon": "settings",
       "title": "Liga e desliga",
-      "text": "Em Configurações, o botão Efeitos sonoros silencia tudo. A chave de silêncio do celular também."
+      "text": "Em Configurações, Efeitos sonoros silencia tudo, inclusive a música."
     }
   ]
 }
