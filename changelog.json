@@ -1,26 +1,26 @@
 {
-  "version": "2026-11-13-15",
+  "version": "2026-11-13-16",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "volume",
+      "title": "Efeitos sempre tocam",
+      "text": "Os efeitos sonoros tocam mesmo com o celular no silencioso."
+    },
+    {
+      "icon": "heart",
+      "title": "Nova música nos resultados",
+      "text": "Um fundo contínuo e mais baixo, que respeita o silencioso e sai com um efeito elástico."
+    },
     {
       "icon": "volume",
       "title": "Um som por ação",
       "text": "Sem som ao trocar de aba e sem efeitos um em cima do outro. Salvar e excluir tocam só o resultado."
     },
     {
-      "icon": "heart",
-      "title": "Música nos resultados",
-      "text": "Uma trilha calma toca ao conferir o resultado de atividades e simulados."
-    },
-    {
       "icon": "list",
       "title": "Botão ao lado do Voltar",
       "text": "Quando a tela tem uma ação só, ela flutua do outro lado do Voltar."
-    },
-    {
-      "icon": "settings",
-      "title": "Liga e desliga",
-      "text": "Em Configurações, Efeitos sonoros silencia tudo, inclusive a música."
     }
   ]
 }
