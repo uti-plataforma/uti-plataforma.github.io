@@ -1,10 +1,10 @@
-const CACHE = 'uti-student-shell-2026-11-12-2'
+const CACHE = 'uti-student-shell-2026-11-13-3'
 const base = new URL(self.registration.scope)
 const local = path => new URL(path, base).href
 
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll([
-    local('./'), local('manifest.webmanifest'), local('media/app-black-192.png'), local('media/app-black-512.png'),
+    new Request(local('./'), { cache: 'reload' }), local('manifest.webmanifest'), local('media/app-black-192.png'), local('media/app-black-512.png'),
   ])).then(() => self.skipWaiting()))
 })
 
@@ -30,7 +30,7 @@ self.addEventListener('fetch', event => {
       if (cached) return cached
     }
     try {
-      const response = await fetch(request)
+      const response = await fetch(navigation ? new Request(request, { cache: 'no-cache' }) : request)
       if (response.ok && response.type === 'basic') await cache.put(request, response.clone())
       return response
     } catch (error) {
