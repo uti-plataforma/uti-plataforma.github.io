@@ -1,61 +1,26 @@
 {
-  "version": "2026-11-13-12",
+  "version": "2026-11-13-13",
   "title": "Nova atualização!",
   "items": [
     {
-      "icon": "pencil",
-      "title": "Correção ao vivo",
-      "text": "O professor vê e corrige as respostas enquanto o aluno ainda está fazendo a atividade."
-    },
-    {
-      "icon": "book",
-      "title": "Matérias em faixa",
-      "text": "O topo de cada matéria virou uma faixa de ponta a ponta."
-    },
-    {
-      "icon": "refresh",
-      "title": "Atualizações visíveis",
-      "text": "Quando sair versão nova, um aviso em tela cheia mostra as novidades e o botão Atualizar fica no topo."
-    },
-    {
-      "icon": "send",
-      "title": "Balões de fala",
-      "text": "Os mascotes falam em balões com animação de digitação."
-    },
-    {
-      "icon": "user",
-      "title": "Professor do IFRN",
-      "text": "Um novo mascote, rigoroso e de óculos, acompanha simulados, entregas, resultados e correções."
-    },
-    {
-      "icon": "list",
-      "title": "Resultado com gráficos",
-      "text": "Roscas de acertos, erros e em branco, no geral e por matéria."
-    },
-    {
-      "icon": "heart",
-      "title": "Festa na nota máxima",
-      "text": "Gabaritou? Uma chuva de confetes cobre a tela inteira."
-    },
-    {
-      "icon": "lock",
-      "title": "Prova entregue",
-      "text": "Depois de entregar, a prova só abre quando o tempo acabar para toda a turma."
-    },
-    {
-      "icon": "timer",
-      "title": "Contagem para o IFRN",
-      "text": "No Início, quanto falta para as inscrições e para o dia da prova."
+      "icon": "volume",
+      "title": "Efeitos sonoros",
+      "text": "Sons ao tocar nos botões, navegar, abrir janelas, salvar, excluir e carregar."
     },
     {
       "icon": "check",
-      "title": "Entrega com gabarito",
-      "text": "Confira suas marcações e veja as questões em branco antes de entregar."
+      "title": "Comemoração com som",
+      "text": "Confete com fanfarra, entrega da prova com carimbo e aviso quando o tempo está acabando."
     },
     {
-      "icon": "book",
-      "title": "Plano de estudo",
-      "text": "Em Matérias, um plano feito com os seus erros nos simulados."
+      "icon": "bell",
+      "title": "Notificação com som",
+      "text": "Um plim avisa quando chega notificação nova com o app aberto."
+    },
+    {
+      "icon": "settings",
+      "title": "Liga e desliga",
+      "text": "Em Configurações, o botão Efeitos sonoros silencia tudo de uma vez."
     }
   ]
 }
