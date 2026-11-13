@@ -1,26 +1,26 @@
 {
-  "version": "2026-11-13-19",
+  "version": "2026-11-13-20",
   "title": "Nova atualização!",
   "items": [
     {
-      "icon": "pencil",
-      "title": "Redação em tela cheia",
-      "text": "Editar abre a folha na tela toda, com zoom de dois dedos. Na correção, use Visualizar Correção."
+      "icon": "timer",
+      "title": "Tempo real de atividade",
+      "text": "O tempo utilizado conta só enquanto o aluno está mexendo na atividade."
     },
     {
-      "icon": "heart-filled",
-      "title": "Curtida rosa",
-      "text": "Avisos que você curtiu ficam com o botão rosa e o coração preenchido."
+      "icon": "back",
+      "title": "Abas lembram onde você parou",
+      "text": "Ao voltar para uma aba, você continua de onde estava. Toque de novo na aba para voltar ao começo."
     },
     {
-      "icon": "send",
-      "title": "Balão do desafio",
-      "text": "No resultado do desafio, o balão aparece sobre o mascote, digitando, e some logo depois."
+      "icon": "check",
+      "title": "Filtro em uso destacado",
+      "text": "O filtro selecionado (Todas, Matemática, Português ou Redação) fica verde."
     },
     {
-      "icon": "volume",
-      "title": "Sons mais baixos",
-      "text": "Os efeitos sonoros e a música dos resultados ficaram bem mais baixos."
+      "icon": "board",
+      "title": "Painel do administrador",
+      "text": "A Visão geral mostra alunos ativos, matrículas, mensalidades, correções pendentes e gráficos."
     }
   ]
 }
