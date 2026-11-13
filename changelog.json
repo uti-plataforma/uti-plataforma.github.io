@@ -1,7 +1,17 @@
 {
-  "version": "2026-11-13-16",
+  "version": "2026-11-13-17",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "bell",
+      "title": "Pendências no menu",
+      "text": "Simulados e Atividades mostram uma bolinha com quantas avaliações abertas ainda faltam entregar."
+    },
+    {
+      "icon": "book",
+      "title": "Conteúdo novo",
+      "text": "Conteúdos mostra quantas aulas novas você ainda não viu. Ao abrir a aula, a bolinha some."
+    },
     {
       "icon": "volume",
       "title": "Efeitos sempre tocam",
@@ -11,16 +21,6 @@
       "icon": "heart",
       "title": "Nova música nos resultados",
       "text": "Um fundo contínuo e mais baixo, que respeita o silencioso e sai com um efeito elástico."
-    },
-    {
-      "icon": "volume",
-      "title": "Um som por ação",
-      "text": "Sem som ao trocar de aba e sem efeitos um em cima do outro. Salvar e excluir tocam só o resultado."
-    },
-    {
-      "icon": "list",
-      "title": "Botão ao lado do Voltar",
-      "text": "Quando a tela tem uma ação só, ela flutua do outro lado do Voltar."
     }
   ]
 }
