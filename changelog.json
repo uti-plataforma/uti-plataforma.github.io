@@ -1,26 +1,26 @@
 {
-  "version": "2026-11-13-20",
+  "version": "2026-11-14-01",
   "title": "Nova atualização!",
   "items": [
     {
-      "icon": "timer",
-      "title": "Tempo real de atividade",
-      "text": "O tempo utilizado conta só enquanto o aluno está mexendo na atividade."
+      "icon": "key",
+      "title": "Entrada mais simples",
+      "text": "No convite, basta o e-mail e uma senha nova: o acesso é liberado na hora. Dá para mostrar a senha enquanto digita."
     },
     {
-      "icon": "back",
-      "title": "Abas lembram onde você parou",
-      "text": "Ao voltar para uma aba, você continua de onde estava. Toque de novo na aba para voltar ao começo."
+      "icon": "shield",
+      "title": "Simulado monitorado",
+      "text": "Sair da tela, copiar ou colar durante o simulado avisa o professor, que acompanha a turma ao vivo."
+    },
+    {
+      "icon": "book",
+      "title": "Conteúdos mais completos",
+      "text": "Mais explicações, exemplos, imagens com fonte e videoaula no fim. Novos: regra de três e notação científica."
     },
     {
       "icon": "check",
-      "title": "Filtro em uso destacado",
-      "text": "O filtro selecionado (Todas, Matemática, Português ou Redação) fica verde."
-    },
-    {
-      "icon": "board",
-      "title": "Painel do administrador",
-      "text": "A Visão geral mostra alunos ativos, matrículas, mensalidades, correções pendentes e gráficos."
+      "title": "Questões do IFRN nos desafios",
+      "text": "As três últimas questões de cada desafio são de provas do IFRN, com o ano, da fácil para a difícil."
     }
   ]
 }
