@@ -1,7 +1,27 @@
 {
-  "version": "2026-11-14-05",
+  "version": "2026-11-14-06",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "eye",
+      "title": "Redação por foto",
+      "text": "Escreva à mão e envie a foto da folha pela câmera ou galeria. Dá para conferir e trocar até a entrega."
+    },
+    {
+      "icon": "check",
+      "title": "Três tipos de correção",
+      "text": "O professor escolhe correção básica, avançada ou nota total de 0 a 10, e marca comentários direto na foto."
+    },
+    {
+      "icon": "book",
+      "title": "Aula pronta para ensinar",
+      "text": "Professores abrem a aula para dar aula, com Voltar e Editar conteúdo acima do sumário."
+    },
+    {
+      "icon": "repeat",
+      "title": "Revisar mais certeiro",
+      "text": "Revisar mostra só as aulas com menos de 50% de acertos."
+    },
     {
       "icon": "book",
       "title": "Matemática passo a passo",
@@ -11,36 +31,6 @@
       "icon": "highlight",
       "title": "Grife e anote as aulas",
       "text": "Selecione um trecho para grifar com cores e escrever sua anotação. No computador, o sumário fica ao lado da aula."
-    },
-    {
-      "icon": "trophy",
-      "title": "Ranking dos simulados",
-      "text": "Veja o pódio da turma com fotos, posições e acertos quando o resultado sair."
-    },
-    {
-      "icon": "user",
-      "title": "Atômico de cara nova",
-      "text": "O mascote agora pisca, olha em volta, mexe as sobrancelhas e gesticula. Plano de estudo e Revisar ficaram em botões."
-    },
-    {
-      "icon": "book",
-      "title": "Uma imagem para cada aula",
-      "text": "As 51 aulas da trilha têm ilustrações próprias. Os ícones têm contorno preto e usam as cores de cada matéria."
-    },
-    {
-      "icon": "download",
-      "title": "Estudo sem internet",
-      "text": "Baixe aulas, imagens e desafios em Conteúdos ou Configurações. Seu progresso sincroniza quando a conexão voltar."
-    },
-    {
-      "icon": "list",
-      "title": "Trilha com assuntos em destaque",
-      "text": "Consulte a presença dos assuntos em cinco provas do IFRN. Os selos mostram o percentual, os anos e os links oficiais."
-    },
-    {
-      "icon": "book",
-      "title": "Currículo completo para estudar",
-      "text": "51 aulas nas três matérias, com exemplos, imagens com fonte, videoaulas e pelo menos dez questões em cada desafio."
     }
   ]
 }
