@@ -1,7 +1,12 @@
 {
-  "version": "2026-11-14-03",
+  "version": "2026-11-14-04",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "book",
+      "title": "Uma imagem para cada aula",
+      "text": "As 51 aulas da trilha têm ilustrações próprias. Os ícones têm contorno preto e usam as cores de cada matéria."
+    },
     {
       "icon": "download",
       "title": "Estudo sem internet",
