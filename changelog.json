@@ -1,7 +1,12 @@
 {
-  "version": "2026-11-14-01",
+  "version": "2026-11-14-02",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "user",
+      "title": "Entrar com Google",
+      "text": "Agora dá para entrar e ativar a matrícula com a conta Google, sem criar senha."
+    },
     {
       "icon": "key",
       "title": "Entrada mais simples",
@@ -16,11 +21,6 @@
       "icon": "book",
       "title": "Conteúdos mais completos",
       "text": "Mais explicações, exemplos, imagens com fonte e videoaula no fim. Novos: regra de três e notação científica."
-    },
-    {
-      "icon": "check",
-      "title": "Questões do IFRN nos desafios",
-      "text": "As três últimas questões de cada desafio são de provas do IFRN, com o ano, da fácil para a difícil."
     }
   ]
 }
