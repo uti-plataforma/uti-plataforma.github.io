@@ -1,7 +1,27 @@
 {
-  "version": "2026-11-14-04",
+  "version": "2026-11-14-05",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "book",
+      "title": "Matemática passo a passo",
+      "text": "As 28 aulas foram refeitas do básico ao avançado: objetivos, lâmpadas que explicam cada símbolo, exercícios resolvidos com a turma e uma página de revisão."
+    },
+    {
+      "icon": "highlight",
+      "title": "Grife e anote as aulas",
+      "text": "Selecione um trecho para grifar com cores e escrever sua anotação. No computador, o sumário fica ao lado da aula."
+    },
+    {
+      "icon": "trophy",
+      "title": "Ranking dos simulados",
+      "text": "Veja o pódio da turma com fotos, posições e acertos quando o resultado sair."
+    },
+    {
+      "icon": "user",
+      "title": "Atômico de cara nova",
+      "text": "O mascote agora pisca, olha em volta, mexe as sobrancelhas e gesticula. Plano de estudo e Revisar ficaram em botões."
+    },
     {
       "icon": "book",
       "title": "Uma imagem para cada aula",
@@ -21,26 +41,6 @@
       "icon": "book",
       "title": "Currículo completo para estudar",
       "text": "51 aulas nas três matérias, com exemplos, imagens com fonte, videoaulas e pelo menos dez questões em cada desafio."
-    },
-    {
-      "icon": "user",
-      "title": "Entrar com Google",
-      "text": "Agora dá para entrar e ativar a matrícula com a conta Google, sem criar senha."
-    },
-    {
-      "icon": "key",
-      "title": "Entrada mais simples",
-      "text": "No convite, basta o e-mail e uma senha nova: o acesso é liberado na hora. Dá para mostrar a senha enquanto digita."
-    },
-    {
-      "icon": "shield",
-      "title": "Simulado monitorado",
-      "text": "Sair da tela, copiar ou colar durante o simulado avisa o professor, que acompanha a turma ao vivo."
-    },
-    {
-      "icon": "book",
-      "title": "Conteúdos mais completos",
-      "text": "Mais explicações, exemplos, imagens com fonte e videoaula no fim. Novos: regra de três e notação científica."
     }
   ]
 }
