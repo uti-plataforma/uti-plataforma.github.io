@@ -1,7 +1,7 @@
 {
   "id": "./student-app",
-  "name": "UTI Aprova",
-  "short_name": "UTI Aprova",
+  "name": "UTI da Ciência",
+  "short_name": "UTI da Ciência",
   "description": "Sua preparação para o IFRN com a UTI da Ciência.",
   "lang": "pt-BR",
   "start_url": "./#/app",

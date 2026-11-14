@@ -1,7 +1,22 @@
 {
-  "version": "2026-11-14-02",
+  "version": "2026-11-14-03",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "download",
+      "title": "Estudo sem internet",
+      "text": "Baixe aulas, imagens e desafios em Conteúdos ou Configurações. Seu progresso sincroniza quando a conexão voltar."
+    },
+    {
+      "icon": "list",
+      "title": "Trilha com assuntos em destaque",
+      "text": "Consulte a presença dos assuntos em cinco provas do IFRN. Os selos mostram o percentual, os anos e os links oficiais."
+    },
+    {
+      "icon": "book",
+      "title": "Currículo completo para estudar",
+      "text": "51 aulas nas três matérias, com exemplos, imagens com fonte, videoaulas e pelo menos dez questões em cada desafio."
+    },
     {
       "icon": "user",
       "title": "Entrar com Google",
