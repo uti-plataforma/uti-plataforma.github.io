@@ -1,7 +1,17 @@
 {
-  "version": "2026-11-15-02",
+  "version": "2026-11-15-03",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "note",
+      "title": "Correção que não se perde",
+      "text": "Resultado e correção abre numa página própria e tudo vira rascunho automático. Se fechar sem querer, a correção volta ao reabrir."
+    },
+    {
+      "icon": "brain",
+      "title": "Leitura que aprende",
+      "text": "A leitura da foto não trava mais a tela. Confira as linhas com o recorte da letra: cada linha confirmada ensina o leitor para as próximas redações."
+    },
     {
       "icon": "brain",
       "title": "Revisão sugerida mais cuidadosa",
@@ -21,16 +31,6 @@
       "icon": "list",
       "title": "Antes de começar",
       "text": "Veja as instruções e o prazo da atividade ou do simulado antes de avançar para as questões."
-    },
-    {
-      "icon": "list",
-      "title": "Meu plano de estudo",
-      "text": "Abra o plano no topo de Matérias para saber por onde começar, quais aulas revisar e quais questões refazer."
-    },
-    {
-      "icon": "clock",
-      "title": "Atalhos no Início",
-      "text": "Alunos veem as avaliações pendentes. A equipe pode ir direto às entregas para corrigir, aos simulados abertos, à criação de atividades e aos avisos."
     }
   ]
 }
