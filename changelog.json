@@ -1,11 +1,16 @@
 {
-  "version": "2026-11-14-07",
+  "version": "2026-11-14-08",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "eye",
       "title": "Redação por foto no iPhone",
-      "text": "Tire uma foto da folha ou escolha da galeria. A plataforma prepara a imagem para envio, e você pode conferir e trocar até entregar."
+      "text": "Envie a foto da folha pela câmera ou galeria. Se precisar tentar de novo, a prévia continua selecionada."
+    },
+    {
+      "icon": "list",
+      "title": "Antes de começar",
+      "text": "Veja as instruções e o prazo da atividade ou do simulado antes de avançar para as questões."
     },
     {
       "icon": "list",
