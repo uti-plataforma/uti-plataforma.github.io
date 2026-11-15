@@ -1,11 +1,11 @@
 {
-  "version": "2026-11-15-05",
+  "version": "2026-11-15-06",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "user",
-      "title": "Primeiro acesso de alunos",
-      "text": "Ao abrir o convite, você pode ativar a matrícula com Google. O acesso por WhatsApp será liberado depois que o número da escola for conectado."
+      "title": "Volta à plataforma",
+      "text": "O acesso pelo WhatsApp pode ser retomado em outra aba do mesmo navegador."
     }
   ]
 }
