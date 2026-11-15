@@ -1,21 +1,11 @@
 {
-  "version": "2026-11-15-04",
+  "version": "2026-11-15-05",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "user",
-      "title": "Quem corrigiu",
-      "text": "No resultado, o aluno vê a foto e o nome do professor que corrigiu a redação."
-    },
-    {
-      "icon": "eye",
-      "title": "Celular sem zoom preso",
-      "text": "Tocar na folha ou voltar da câmera não amplia mais a página. O zoom fica só ao ampliar a foto ou a folha."
-    },
-    {
-      "icon": "pencil",
-      "title": "Correção mais limpa",
-      "text": "No computador, basta arrastar o mouse na foto para marcar. Na foto ampliada, os botões aparecem completos."
+      "title": "Primeiro acesso de alunos",
+      "text": "Ao abrir o convite, você pode ativar a matrícula com Google. O acesso por WhatsApp será liberado depois que o número da escola for conectado."
     }
   ]
 }

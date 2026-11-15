@@ -1,4 +1,4 @@
-const CACHE = 'uti-student-shell-af3eb155de81956a'
+const CACHE = 'uti-student-shell-ea3e7f4ee1bba913'
 const base = new URL(self.registration.scope)
 const local = path => new URL(path, base).href
 
