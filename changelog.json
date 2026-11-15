@@ -1,11 +1,21 @@
 {
-  "version": "2026-11-14-06",
+  "version": "2026-11-14-07",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "eye",
-      "title": "Redação por foto",
-      "text": "Escreva à mão e envie a foto da folha pela câmera ou galeria. Dá para conferir e trocar até a entrega."
+      "title": "Redação por foto no iPhone",
+      "text": "Tire uma foto da folha ou escolha da galeria. A plataforma prepara a imagem para envio, e você pode conferir e trocar até entregar."
+    },
+    {
+      "icon": "list",
+      "title": "Meu plano de estudo",
+      "text": "Abra o plano no topo de Matérias para saber por onde começar, quais aulas revisar e quais questões refazer."
+    },
+    {
+      "icon": "clock",
+      "title": "Atalhos no Início",
+      "text": "Alunos veem as avaliações pendentes. A equipe pode ir direto às entregas para corrigir, aos simulados abertos, à criação de atividades e aos avisos."
     },
     {
       "icon": "check",
