@@ -1,11 +1,16 @@
 {
-  "version": "2026-11-15-07",
+  "version": "2026-11-15-08",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "user",
-      "title": "Volta à plataforma",
-      "text": "A mensagem que você envia pelo WhatsApp agora traz as instruções e um link para voltar à UTI Aprova."
+      "title": "Entrada com Google",
+      "text": "Use sua conta Google para ativar a matrícula. Se já estiver na sua conta, o convite abre direto a plataforma."
+    },
+    {
+      "icon": "trash",
+      "title": "Excluir matrícula",
+      "text": "A administração pode excluir uma matrícula pela lista de alunos. A exclusão encerra o acesso e guarda o histórico."
     }
   ]
 }
