@@ -1,36 +1,21 @@
 {
-  "version": "2026-11-15-03",
+  "version": "2026-11-15-04",
   "title": "Nova atualização!",
   "items": [
     {
-      "icon": "note",
-      "title": "Correção que não se perde",
-      "text": "Resultado e correção abre numa página própria e tudo vira rascunho automático. Se fechar sem querer, a correção volta ao reabrir."
-    },
-    {
-      "icon": "brain",
-      "title": "Leitura que aprende",
-      "text": "A leitura da foto não trava mais a tela. Confira as linhas com o recorte da letra: cada linha confirmada ensina o leitor para as próximas redações."
-    },
-    {
-      "icon": "brain",
-      "title": "Revisão sugerida mais cuidadosa",
-      "text": "Quando a letra não é lida com segurança, nada é apontado como erro. Toque numa sugestão para ver a palavra na foto."
+      "icon": "user",
+      "title": "Quem corrigiu",
+      "text": "No resultado, o aluno vê a foto e o nome do professor que corrigiu a redação."
     },
     {
       "icon": "eye",
-      "title": "Foto limpa para corrigir",
-      "text": "Esconda as marcações ou recolha as sugestões com um toque. Dispensar uma sugestão tira a marca na hora."
+      "title": "Celular sem zoom preso",
+      "text": "Tocar na folha ou voltar da câmera não amplia mais a página. O zoom fica só ao ampliar a foto ou a folha."
     },
     {
-      "icon": "eye",
-      "title": "Redação por foto no iPhone",
-      "text": "Envie a foto da folha pela câmera ou galeria. Se precisar tentar de novo, a prévia continua selecionada."
-    },
-    {
-      "icon": "list",
-      "title": "Antes de começar",
-      "text": "Veja as instruções e o prazo da atividade ou do simulado antes de avançar para as questões."
+      "icon": "pencil",
+      "title": "Correção mais limpa",
+      "text": "No computador, basta arrastar o mouse na foto para marcar. Na foto ampliada, os botões aparecem completos."
     }
   ]
 }
