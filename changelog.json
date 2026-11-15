@@ -1,7 +1,17 @@
 {
-  "version": "2026-11-14-08",
+  "version": "2026-11-15-02",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "brain",
+      "title": "Revisão sugerida mais cuidadosa",
+      "text": "Quando a letra não é lida com segurança, nada é apontado como erro. Toque numa sugestão para ver a palavra na foto."
+    },
+    {
+      "icon": "eye",
+      "title": "Foto limpa para corrigir",
+      "text": "Esconda as marcações ou recolha as sugestões com um toque. Dispensar uma sugestão tira a marca na hora."
+    },
     {
       "icon": "eye",
       "title": "Redação por foto no iPhone",
@@ -21,31 +31,6 @@
       "icon": "clock",
       "title": "Atalhos no Início",
       "text": "Alunos veem as avaliações pendentes. A equipe pode ir direto às entregas para corrigir, aos simulados abertos, à criação de atividades e aos avisos."
-    },
-    {
-      "icon": "check",
-      "title": "Três tipos de correção",
-      "text": "O professor escolhe correção básica, avançada ou nota total de 0 a 10, e marca comentários direto na foto."
-    },
-    {
-      "icon": "book",
-      "title": "Aula pronta para ensinar",
-      "text": "Professores abrem a aula para dar aula, com Voltar e Editar conteúdo acima do sumário."
-    },
-    {
-      "icon": "repeat",
-      "title": "Revisar mais certeiro",
-      "text": "Revisar mostra só as aulas com menos de 50% de acertos."
-    },
-    {
-      "icon": "book",
-      "title": "Matemática passo a passo",
-      "text": "As 28 aulas foram refeitas do básico ao avançado: objetivos, lâmpadas que explicam cada símbolo, exercícios resolvidos com a turma e uma página de revisão."
-    },
-    {
-      "icon": "highlight",
-      "title": "Grife e anote as aulas",
-      "text": "Selecione um trecho para grifar com cores e escrever sua anotação. No computador, o sumário fica ao lado da aula."
     }
   ]
 }
