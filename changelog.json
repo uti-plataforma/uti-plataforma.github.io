@@ -1,11 +1,11 @@
 {
-  "version": "2026-11-15-06",
+  "version": "2026-11-15-07",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "user",
       "title": "Volta à plataforma",
-      "text": "O acesso pelo WhatsApp pode ser retomado em outra aba do mesmo navegador."
+      "text": "A mensagem que você envia pelo WhatsApp agora traz as instruções e um link para voltar à UTI Aprova."
     }
   ]
 }
