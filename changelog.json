@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-16-01",
+  "version": "2026-11-16-02",
   "title": "Nova atualização!",
   "items": [
     {
@@ -9,13 +9,13 @@
     },
     {
       "icon": "trash",
-      "title": "Acesso após exclusão da matrícula",
-      "text": "A plataforma bloqueia o acesso de uma matrícula excluída mesmo se o aluno estiver conectado. Um novo convite permite ativar outra matrícula com a mesma conta."
+      "title": "Reset do acesso ao excluir matrícula",
+      "text": "A exclusão encerra as sessões e remove a senha antiga da plataforma para alunos com Google. O mesmo e-mail pode ativar uma nova matrícula por convite."
     },
     {
       "icon": "card",
-      "title": "Pagamento da matrícula",
-      "text": "A cobrança inicial aparece no Financeiro assim que o Pix e o valor estiverem configurados."
+      "title": "Mais informações da matrícula",
+      "text": "A administração pode consultar os dados do aluno, do responsável e da mensalidade na mesma janela das ações da matrícula."
     }
   ]
 }
