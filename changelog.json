@@ -1,21 +1,26 @@
 {
-  "version": "2026-11-16-02",
+  "version": "2026-11-16-03",
   "title": "Nova atualização!",
   "items": [
     {
-      "icon": "user",
-      "title": "Entrada com Google",
-      "text": "O login com Google volta ao convite que você abriu e informa se a conta escolhida já está vinculada a outra matrícula."
-    },
-    {
-      "icon": "trash",
-      "title": "Reset do acesso ao excluir matrícula",
-      "text": "A exclusão encerra as sessões e remove a senha antiga da plataforma para alunos com Google. O mesmo e-mail pode ativar uma nova matrícula por convite."
-    },
-    {
       "icon": "card",
-      "title": "Mais informações da matrícula",
-      "text": "A administração pode consultar os dados do aluno, do responsável e da mensalidade na mesma janela das ações da matrícula."
+      "title": "Pagamento mais claro",
+      "text": "QR Code ampliável, progresso no envio e confirmação quando o acesso do aluno é liberado."
+    },
+    {
+      "icon": "trophy",
+      "title": "Acompanhamento do responsável",
+      "text": "Notas, posição na turma, gráficos e agenda de aulas e eventos em abas próprias."
+    },
+    {
+      "icon": "download",
+      "title": "Instalação e acesso no iPhone",
+      "text": "Tutorial com imagens e opção de autorizar no navegador o login do aplicativo instalado."
+    },
+    {
+      "icon": "shield",
+      "title": "Matrícula com dados novos",
+      "text": "A exclusão remove foto e progresso do aluno. Uma nova matrícula começa com seus próprios dados."
     }
   ]
 }

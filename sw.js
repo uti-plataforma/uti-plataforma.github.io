@@ -1,4 +1,4 @@
-const CACHE = 'uti-student-shell-90f7a5198b2c85c6'
+const CACHE = 'uti-student-shell-b2c8540f46c13986'
 const base = new URL(self.registration.scope)
 const local = path => new URL(path, base).href
 
@@ -51,9 +51,9 @@ self.addEventListener('fetch', event => {
 self.addEventListener('push', event => {
   let data = {}
   try { data = event.data ? event.data.json() : {} } catch { data = { body: event.data ? event.data.text() : '' } }
-  const title = typeof data.title === 'string' ? data.title.slice(0, 80) : 'UTI da Ciência'
-  const body = typeof data.body === 'string' ? data.body.slice(0, 180) : ''
-  const route = typeof data.route === 'string' && /^\/app(\/[a-z]+)?(\?[a-z0-9=&-]*)?$/.test(data.route) ? data.route : '/app'
+  const title = typeof data.title === 'string' ? data.title.slice(0, 160) : 'UTI da Ciência 🔔'
+  const body = typeof data.body === 'string' ? data.body.slice(0, 320) : ''
+  const route = typeof data.route === 'string' && /^\/(app|admin)(\/[a-z]+)?(\?[a-z0-9=&-]*)?$/.test(data.route) ? data.route : '/app'
   event.waitUntil(self.registration.showNotification(title, {
     body, tag: typeof data.tag === 'string' ? data.tag.slice(0, 60) : undefined,
     icon: local('media/app-black-192.png'), badge: local('media/app-black-192.png'), data: { route },
