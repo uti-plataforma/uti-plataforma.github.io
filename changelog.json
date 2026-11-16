@@ -1,16 +1,21 @@
 {
-  "version": "2026-11-15-08",
+  "version": "2026-11-16-01",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "user",
       "title": "Entrada com Google",
-      "text": "Use sua conta Google para ativar a matrícula. Se já estiver na sua conta, o convite abre direto a plataforma."
+      "text": "O login com Google volta ao convite que você abriu e informa se a conta escolhida já está vinculada a outra matrícula."
     },
     {
       "icon": "trash",
-      "title": "Excluir matrícula",
-      "text": "A administração pode excluir uma matrícula pela lista de alunos. A exclusão encerra o acesso e guarda o histórico."
+      "title": "Acesso após exclusão da matrícula",
+      "text": "A plataforma bloqueia o acesso de uma matrícula excluída mesmo se o aluno estiver conectado. Um novo convite permite ativar outra matrícula com a mesma conta."
+    },
+    {
+      "icon": "card",
+      "title": "Pagamento da matrícula",
+      "text": "A cobrança inicial aparece no Financeiro assim que o Pix e o valor estiverem configurados."
     }
   ]
 }
