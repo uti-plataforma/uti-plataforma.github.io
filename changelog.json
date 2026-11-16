@@ -1,7 +1,12 @@
 {
-  "version": "2026-11-16-04",
+  "version": "2026-11-16-05",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "clock",
+      "title": "Prazo de 3 dias para conferir pagamentos",
+      "text": "Comprovantes sem decisão final por 3 dias corridos são aprovados automaticamente. O prazo aparece na conferência e a aprovação fica identificada no histórico."
+    },
     {
       "icon": "bank",
       "title": "Conferência de pagamentos em etapas",
