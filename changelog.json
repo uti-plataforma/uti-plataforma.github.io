@@ -1,26 +1,16 @@
 {
-  "version": "2026-11-16-03",
+  "version": "2026-11-16-04",
   "title": "Nova atualização!",
   "items": [
     {
-      "icon": "card",
-      "title": "Pagamento mais claro",
-      "text": "QR Code ampliável, progresso no envio e confirmação quando o acesso do aluno é liberado."
+      "icon": "bank",
+      "title": "Conferência de pagamentos em etapas",
+      "text": "Tomar decisão agora separa comprovante, extrato bancário e decisão. Histórico e verificações ficam organizados em áreas recolhíveis."
     },
     {
-      "icon": "trophy",
-      "title": "Acompanhamento do responsável",
-      "text": "Notas, posição na turma, gráficos e agenda de aulas e eventos em abas próprias."
-    },
-    {
-      "icon": "download",
-      "title": "Instalação e acesso no iPhone",
-      "text": "Tutorial com imagens e opção de autorizar no navegador o login do aplicativo instalado."
-    },
-    {
-      "icon": "shield",
-      "title": "Matrícula com dados novos",
-      "text": "A exclusão remove foto e progresso do aluno. Uma nova matrícula começa com seus próprios dados."
+      "icon": "eye",
+      "title": "Ilustrações e ícones explicativos",
+      "text": "Três ilustrações orientam a conferência e ícones próprios ajudam a identificar cada decisão."
     }
   ]
 }
