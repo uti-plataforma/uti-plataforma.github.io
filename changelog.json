@@ -1,11 +1,16 @@
 {
-  "version": "2026-11-16-05",
+  "version": "2026-11-16-07",
   "title": "Nova atualização!",
   "items": [
     {
+      "icon": "check",
+      "title": "Comprovante aceito com confirmação visual",
+      "text": "Após o aceite do comprovante, uma animação suave preenche a tela de verde e revela a confirmação, com aluno, valor e número da cobrança organizados e o material liberado em destaque."
+    },
+    {
       "icon": "clock",
       "title": "Prazo de 3 dias para conferir pagamentos",
-      "text": "Comprovantes sem decisão final por 3 dias corridos são aprovados automaticamente. O prazo aparece na conferência e a aprovação fica identificada no histórico."
+      "text": "Comprovantes sem decisão final por 3 dias corridos são aprovados automaticamente. Um cronômetro mostra dias, horas, minutos e segundos restantes, e a aprovação fica identificada no histórico."
     },
     {
       "icon": "bank",
