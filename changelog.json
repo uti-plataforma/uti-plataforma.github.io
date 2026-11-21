@@ -1,7 +1,12 @@
 {
-  "version": "2026-11-16-07",
+  "version": "2026-11-21-01",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "download",
+      "title": "Página para baixar o aplicativo",
+      "text": "Um link próprio mostra a tela inicial em celular, tablet e computador e abre o tutorial de instalação do seu dispositivo. Quem ainda não é aluno pode acessar as inscrições."
+    },
     {
       "icon": "check",
       "title": "Comprovante aceito com confirmação visual",
