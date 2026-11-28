@@ -1,11 +1,11 @@
 {
-  "version": "2026-11-28-01",
+  "version": "2026-11-28-02",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "shirt",
       "title": "Camisa do curso",
-      "text": "Veja o modelo 3D da UTI, escolha o tamanho e acompanhe seu pedido. O responsável também pode pedir para o filho. A equipe configura o preço e o Pix, confere comprovantes e atualiza produção e entrega."
+      "text": "Veja a camisa em 3D e as novas imagens realistas de frente e costas, em uma página com fundo neutro e elementos alinhados. Escolha o tamanho e acompanhe seu pedido; o responsável também pode pedir para o filho."
     },
     {
       "icon": "download",
