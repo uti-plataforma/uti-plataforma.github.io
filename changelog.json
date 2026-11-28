@@ -1,11 +1,11 @@
 {
-  "version": "2026-11-28-05",
+  "version": "2026-11-28-06",
   "title": "Nova atualização!",
   "items": [
     {
       "icon": "shirt",
       "title": "Camisa do curso",
-      "text": "Veja a camisa em 3D e em imagens PNG sem fundo. A vitrine está mais direta, com destaque laranja e luz suave ao fundo. Escolha o tamanho e acompanhe seu pedido."
+      "text": "Configure o valor e os QR Codes da camisa no Financeiro, arrastando ou escolhendo as imagens. A conferência dos pedidos agora lê comprovantes em PDF e imagem e permite ajustar os dados encontrados."
     },
     {
       "icon": "download",
