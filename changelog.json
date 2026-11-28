@@ -1,7 +1,12 @@
 {
-  "version": "2026-11-21-02",
+  "version": "2026-11-28-01",
   "title": "Nova atualização!",
   "items": [
+    {
+      "icon": "shirt",
+      "title": "Camisa do curso",
+      "text": "Veja o modelo 3D da UTI, escolha o tamanho e acompanhe seu pedido. O responsável também pode pedir para o filho. A equipe configura o preço e o Pix, confere comprovantes e atualiza produção e entrega."
+    },
     {
       "icon": "download",
       "title": "Página para baixar o aplicativo",
